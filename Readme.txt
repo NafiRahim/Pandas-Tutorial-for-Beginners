@@ -1,12 +1,12 @@
-How to run the Project
+To run the project, follow these steps:
 
-1. Download the project and unzip it.
-2. Open the folder in your fevorite IDE.
-3. Run basic.ipynb file.
+1. Download and unzip the project.
+2. Open the project folder in your favorite IDE.
+3. Run the basic.ipynb file.
 
-The notebook will teach you how to use the library. and how to use it to solve a problem.
+The notebook will teach you how to use the Pandas library to solve a problem, covering some basic functions. In the future, more notebooks will be added to cover more advanced topics.
 
-This notebook only cover some basic functions of Pandas. I will add more notebooks in future to cover more advanced topics.
+An intermediate.ipynb file has been added to cover some intermediate topics of Pandas.
+After finishing the basic.ipynb file, you can move on to the intermediate.ipynb file. The process of run the intermediate.ipynb file is the same as the basic.ipynb file.
 
-
-This project is still in development. if you have any suggestions or want to contribute to this project, Please feel free to contact me.
+Please note that this project is still in development. If you have any suggestions or would like to contribute, please feel free to contact me.
