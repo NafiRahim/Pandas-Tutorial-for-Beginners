@@ -11,3 +11,6 @@ To get started, simply clone this repository to your local machine, or download 
 ## License
 
 This repository is licensed under the MIT License. See the LICENSE file for more details.
+
+
+## If you found this repository helpful, please consider giving it a ⭐️. Thank you!
