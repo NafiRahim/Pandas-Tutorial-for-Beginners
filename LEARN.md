@@ -15,3 +15,19 @@
 | `DataFrame.iloc[]`      | Accesses a group of rows and columns by integer-based position(s).                |
 | `DataFrame.drop()`      | Removes specified rows or columns from a DataFrame.                               |
 | `DataFrame.isnull()`    | Checks for missing values in the DataFrame and returns a boolean mask.            |
+| `DataFrame.fillna()`    | Fills missing values in the DataFrame with a specified value or method.            |
+| `DataFrame.idxmax()`    | Returns the index of the row with the highest value in the specified column.       |
+| `DataFrame.idxmin()`    | Returns the index of the row with the lowest value in the specified column.        |
+| `DataFrame.sort_values()` | Sorts the DataFrame by the values in a specified column.                          |
+| `DataFrame.rename()`    | Renames the index labels or column names of a DataFrame.                          |
+| `DataFrame.drop_duplicates()` | Removes duplicate rows from a DataFrame.                                       |
+| `DataFrame.concat()`    | Concatenates two or more DataFrames into a single DataFrame.                      |
+| `DataFrame.merge()`     | Merges two DataFrames on a specified column.                                      |
+| `DataFrame.plot()`      | Creates a plot of the specified column(s) of a DataFrame.                         |
+| `DataFrame.groupby()`   | Creates a group that can be used to group a DataFrame by a specified column.      |
+| `DataFrame.agg()`       | Aggregates data from a DataFrame.                                                 |
+| `DataFrame.pivot_table()` | Creates a pivot table that groups and aggregates data from a DataFrame.         |
+| `DataFrame.melt()`      | Converts a DataFrame from wide to long format.                                    |
+| `DataFrame.stack()`     | Converts a DataFrame from wide to long format, stacking all columns into a single column. |
+| `DataFrame.unstack()`   | Converts a DataFrame from long to wide format, unstacking a single column into multiple columns. |
+| `pandas.crosstab()`     | Creates a two-way table that can show the frequency counts of multiple columns.   |
